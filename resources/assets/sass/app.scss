@@ -18,10 +18,9 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1000px;
-  @media screen and (max-width: 768px) {
-  	padding-left: 1em;
-  	padding-right: 1em;
-      }
+  padding-left: 1em;
+  padding-right: 1em;
+
 }
 
 h3{

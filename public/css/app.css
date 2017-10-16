@@ -198,11 +198,9 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 1000px; }
-  @media screen and (max-width: 768px) {
-    .container {
-      padding-left: 1em;
-      padding-right: 1em; } }
+  max-width: 1000px;
+  padding-left: 1em;
+  padding-right: 1em; }
 
 h3 {
   font-size: 2em; }
