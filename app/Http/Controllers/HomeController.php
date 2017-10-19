@@ -53,7 +53,7 @@ class HomeController extends Controller
 
     public function cv()
     {
-    	$file= public_path(). "/pdf/Christian-Sims-CV.pdf";
+    	$file=  "../public_html/pdf/Christian-Sims-CV.pdf";
 
     	$headers = [
     	              'Content-Type' => 'application/pdf',
