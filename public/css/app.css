@@ -188,6 +188,10 @@ textarea:focus {
 .contactSuccess p {
   padding-top: 0.5em; }
 
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  .hob object {
+    width: 30%; } }
+
 * {
   box-sizing: border-box; }
 

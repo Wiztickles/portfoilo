@@ -39,21 +39,23 @@
         </div>
 
         <div class="interests ">
-            <div class="bgwhite motorcycle_hob flex-col flex-a-center">
+            <div class="bgwhite hob motorcycle_hob flex-col flex-a-center">
                 <object id="motorcycle" onload="onMotorcycle()" type="image/svg+xml" data="img/motorcycle.svg"></object>
-                <h3><span><</span><span>/</span>Motorcycles<span>></span></h3>
-                <div class="hobby_des">
-                    <p>Nothing comes close to the thrill of riding a motorcycle. I love a good weekend ride. Had a rough crash recently, but that still doesn't put me off. </p>
+                <div class="flex-col flex-a-center">
+                    <h3><span><</span><span>/</span>Motorcycles<span>></span></h3>
+                    <div class="hobby_des">
+                        <p>Nothing comes close to the thrill of riding a motorcycle. I love a good weekend ride. Had a rough crash recently, but that still doesn't put me off. </p>
+                    </div>
                 </div>
             </div>
-            <div class="bgwhite music_hob flex-col flex-a-center">
+            <div class="bgwhite hob music_hob flex-col flex-a-center">
                 <object id="music" onload="onMusic()" type="image/svg+xml" data="img/music.svg"></object>
                 <h3><span><</span><span>/</span>Music<span>></span></h3> 
                 <div class="hobby_des">
                     <p>Been playing guitar for as long as I can remember. I ain't no Jimi Hendrix, but I like to think I can hold my own in a jam.</p>
                 </div>
             </div>
-            <div class="bgwhite tinkerer_hob flex-col flex-a-center">
+            <div class="bgwhite hob tinkerer_hob flex-col flex-a-center">
                 <object id="gear" onload="onGear()" type="image/svg+xml" data="img/gear.svg"></object>
                 <h3><span><</span><span>/</span>Tinkering<span>></span></h3> 
                 <div class="hobby_des">

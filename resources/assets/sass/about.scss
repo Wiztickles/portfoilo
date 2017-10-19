@@ -135,3 +135,11 @@ textarea:focus {
         padding-top: 0.5em;
     }
 }
+
+.hob {
+    @media screen and (min-width: 480px) and (max-width: 768px) {
+        object{
+            width: 30%;
+        }
+    }
+}
